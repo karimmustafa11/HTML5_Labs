@@ -10,4 +10,5 @@ colors.forEach(color => {
     color.addEventListener('input', function () {
         h3.style.color = `rgb(${red.value},${green.value},${blue.value})`
     })
+    //h
 })
